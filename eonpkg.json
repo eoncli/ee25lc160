@@ -1,0 +1,11 @@
+{
+    "name": "ee25lc160",
+    "author": "eon",
+    "type": "library",
+    "version": "1.0.0",
+    "dependencies": [],
+    "targetPlatforms": [
+        "stm32l0",
+        "stm32g0"
+    ]
+}
